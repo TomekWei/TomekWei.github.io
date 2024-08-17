@@ -22,7 +22,7 @@ My research interests include, but are not limited to:
 
 ### Projects
 - [PantryPal](https://github.com/ucsd-cse110-fa23/cse-110-project-team-14) : Developed a multi-platform software named PantryPal, designed to help users create refined recipes based on available ingredients at home, aided by artificial intelligence. 
-- DLRCs: Developing a Recommanding sytem based on TorchRec
+- DLRMs: Developing a Recommanding sytem based on TorchRec
 
 ### Contact Information
 - Email: [twei11@illinois.edu](mailto:twei11@illinois.edu)
