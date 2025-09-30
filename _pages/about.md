@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is Tong(Tomek) Wei"
+title: "This is Tong Wei"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,21 +8,34 @@ redirect_from:
 ---
 
 
-I am Tong(Tomek) Wei, a passionate developer and researcher. Welcome to my personal website, a platform showcasing my projects, research achievements, and thoughts.
+I am Tong Wei, a passionate developer and researcher. Welcome to my personal website, a platform showcasing my projects, research achievements, and thoughts.
 
-### Educational Background
-- B.Sc. in Math & Computer Sicence, University of Illinois Urbana Champaign, Graduate in 2026
+### Educational
+- B.S. in Math & Computer Sicence, University of Illinois Urbana Champaign, Graduate in 2026
 
 ### Research Interests
-My research interests include, but are not limited to:
-- Machine Learning Area
-- Deep Learning in Recommanding System Area
-- System Area
 
+- **Systems and Infrastructure**:  
+  Scalable Systems for Machine Learning, 
+  Distributed and High-Performance Machine Learning Infrastructure, 
+  Scalable Parallel Systems for Large-Scale AI (MoE, LLM Training Acceleration, Redundancy Reduction)
 
-### Projects
-- [PantryPal](https://github.com/ucsd-cse110-fa23/cse-110-project-team-14) : Developed a multi-platform software named PantryPal, designed to help users create refined recipes based on available ingredients at home, aided by artificial intelligence. 
-- DLRMs: Developing a Recommanding sytem based on TorchRec
+- **Algorithms and Applications**:  
+  Efficient Optimization Algorithms for Training and Fine-Tuning (Parameter-Efficient, Pre/Post-Training), 
+  Systems and Algorithms for Efficient Large-Scale ML Applications (LLMs, DLRM, DiT, Generative AI),
+  RLHF, Reinforcement Learning & Algorithms, 
+
+### Publications
+
+1. Wei, T., et al. *RecScale: System-Aware Scaling Laws for Deep Learning Recommendation Models.*  
+   Under submission to the 21st ACM European Conference on Computer Systems (EuroSys 2026).
+
+2. Fan, J., Wei, T., et al. *Adaptive Divergence Regularized Policy Optimization for Fine-tuning Generative Models.*  
+   Accepted at the Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025).
+
+3. Venkatraman, A., Cao, H., Wei, T., et al. *MSAFlow: A Unified Approach for MSA Representation, Augmentation, and Family-based Protein Design.*  
+   Accepted at the NeurIPS AI4Science Workshop 2025; Under submission to the International Conference on Learning Representations (ICLR 2026).
+
 
 ### Contact Information
 - Email: [twei11@illinois.edu](mailto:twei11@illinois.edu)
