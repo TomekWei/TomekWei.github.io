@@ -11,60 +11,52 @@ redirect_from:
 
 Education
 ======
-* B.S. in Math & Computer Science, University of Illinois Urbana-Champaign, IL USA, Expected 8/2025
-  * Major: Math & Computer Science  Cumulative GPA: [to be added]
-* Exchange Student in Computer Science, University of California San Diego, CA USA, 03/2023 - 12/2023
-  * Major: Computer Science
-* Major in Computer Science and Technology, Beijing University of Technology, Beijing China, 09/2021-03/2023
-  * Cumulative GPA: 3.75/4.0
-
-Research and Work experience
-======
-* Jan 2024 – Present: Research Assistant in Big Data-Based Pulmonary Medical Q&A Large Model
-  * Beijing University of Technology
-  * Duties included: Data collection and processing, developing the question-answering algorithm, and evaluating system performance.
-  * Supervisor: Jinli Zhang, Ph.D.
-
-* Sep 2023 - Dec 2023: Project Member, UCSD –PantryPal Multi-Platform Intelligent Recipe Software
-  * University of California San Diego
-  * Duties included: Software development, Agile Planning, and implementation of various design patterns.
-  * [Project Link](https://github.com/ucsd-cse110-fa23/cse-110-project-team-14)
-
-* Jun 2023 - Aug 2023: Research - Non-Deep Learning Based Video Feature Extraction and Comparison
-  * Advanced Computer Research Center, CAS
-  * Duties included: Video decoding and keyframe extraction, feature extraction algorithm practice and optimization.
-  * Supervisor: Prof. Yike Ma
-
-Skills
-======
-* Programming Languages: C/C++, Java, Python, Verilog, Arm Assembly
-* Technologies: MongoDB, Docker, OpenCV, Pytorch, TorchRec
-* Core Courses: Data Structures, Computer Architecture, Operating Systems, Probability Theory & Mathematical Statistics, Artificial Intelligence (in progress), Deep Learning for Computer Vision (in progress), System Programming
+* **University of Illinois Urbana-Champaign (UIUC), Urbana, IL, USA**  
+  B.S. in Math & Computer Science, Expected 06/2026  
+  * Relevant Courses: AI Efficiency: Sys. & Algor. (CS598), Machine Learning Systems (CS498), Distributed Systems (CS425), Parallel Programming (CS483), System Programming / Operating System  
 
 Publications
 ======
-No Pub Yet
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+* Wei, T., et al. *RecScale: System-Aware Scaling Laws for Deep Learning Recommendation Models.*  
+  Under submission to the 21st ACM European Conference on Computer Systems (EuroSys 2026).
+
+* Fan, J., Wei, T., et al. *Adaptive Divergence Regularized Policy Optimization for Fine-tuning Generative Models.*  
+  Accepted at the Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025).
+
+* Venkatraman, A., Cao, H., Wei, T., et al. *MSAFlow: A Unified Approach for MSA Representation, Augmentation, and Family-based Protein Design.*  
+  Accepted at the NeurIPS AI4Science Workshop 2025; Under submission to the International Conference on Learning Representations (ICLR 2026).
+
+Research Highlights
+======
+* **RecScale: System-Aware Scaling Laws for Deep Learning Recommendation Models** (Mar 2024 – Aug 2025)  
+  - Developed a system-aware framework addressing memory/communication bottlenecks in scaling DLRMs.  
+  - Achieved up to **16× memory reduction** and **3.3× speedup** on 64 GPUs, with preserved accuracy.  
+
+* **Adaptive Divergence Regularized Policy Optimization (ADRPO)** (Mar 2025 – May 2025)  
+  - Introduced adaptive regularization for RL fine-tuning of generative models.  
+  - Enabled a **2B parameter SD3 model** to outperform **4.8B–12B baselines** in alignment, semantic control, and human preference metrics.  
+
+* **MSAFlow: Unified Approach for MSA Representation, Compression, and Augmentation** (Mar 2025 – Aug 2025)  
+  - Built a 130M-parameter generative autoencoder for multiple-sequence alignments.  
+  - Reduced storage to **6.5%** while improving AF3 zero-shot structure prediction (TM-score 0.62 vs. 0.55 baseline).  
+
+<!-- Skills
+======
+* **Programming Languages**: C/C++, Python, Java, Verilog, Arm Assembly  
+* **Technologies**: MongoDB, Docker, OpenCV, PyTorch, TorchRec  
+* **Core Courses**: AI Efficiency, ML Systems, Distributed Systems, Parallel Programming, Operating Systems   -->
 
 Teaching
 ======
-No exp yet
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+No experience yet.
+
+Service and Leadership
 ======
-Waiting for update.
-
-<!-- Talks-->
-<!-- ====== -->
-
-  <!-- <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-   --> 
-<!-- * Currently signed in to 43 different slack teams -->
+To be updated.
